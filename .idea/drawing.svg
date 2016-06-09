@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1280"
+   height="720"
+   viewBox="0 0 1280 720.00001"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="drawing.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4188">
+      <stop
+         style="stop-color:#1d5cb9;stop-opacity:1"
+         offset="0"
+         id="stop4190" />
+      <stop
+         style="stop-color:#1e488c;stop-opacity:1"
+         offset="1"
+         id="stop4192" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4188"
+       id="radialGradient4200"
+       cx="640"
+       cy="692.36212"
+       fx="640"
+       fy="692.36212"
+       r="640"
+       gradientTransform="matrix(1,0,0,0.87500001,0,86.545277)"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4496"
+       x="-0.08094648"
+       width="1.161893"
+       y="-0.098341173"
+       height="1.1966823">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="11.148454"
+         id="feGaussianBlur4498" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="618.41549"
+     inkscape:cy="336.81368"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:showpageshadow="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1400"
+     inkscape:window-height="1022"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-332.36216)">
+    <rect
+       style="opacity:1;fill:url(#radialGradient4200);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3336"
+       width="1280"
+       height="720"
+       x="0"
+       y="332.36215" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4172"
+       y="1378.8317"
+       x="-457.33301"
+       style="font-style:normal;font-weight:normal;font-size:93.20578003px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:419.42599487px;line-height:125%;font-family:'Black Ops One';-inkscape-font-specification:'Black Ops One, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         y="1378.8317"
+         x="-457.33301"
+         id="tspan4174"
+         sodipodi:role="line">M</tspan></text>
+    <g
+       id="g3373"
+       inkscape:export-filename="/home/powerofm/Projects/powerofm.github.io/img/powerofm-logo.png"
+       inkscape:export-xdpi="154.82001"
+       inkscape:export-ydpi="154.82001">
+      <g
+         style="fill:#0042ad;fill-opacity:1;filter:url(#filter4496)"
+         id="g4210"
+         transform="matrix(0.4856947,0,0,0.4856947,323.0586,335.10001)">
+        <path
+           id="path4212"
+           transform="translate(0,332.36216)"
+           d="m 487.28125,200.22266 0,272.07617 84.58203,0 0,-129.49414 76.79883,129.49414 65.33008,-112.4336 0,-136.80468 -57.34375,98.30273 -72.90821,-120.83203 -96.2539,0 4.32422,7.29102 -4.5293,-7.59961 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:419.42599487px;line-height:125%;font-family:'Black Ops One';-inkscape-font-specification:'Black Ops One, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0042ad;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path4214"
+           transform="translate(0,332.36216)"
+           d="m 727.30469,200.53125 0,271.76758 90.51953,0 0,-271.76758 -90.51953,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:419.42599487px;line-height:125%;font-family:'Black Ops One';-inkscape-font-specification:'Black Ops One, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0042ad;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(0.4856947,0,0,0.4856947,323.0586,335.10001)"
+         id="g4206">
+        <path
+           inkscape:connector-curvature="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:419.42599487px;line-height:125%;font-family:'Black Ops One';-inkscape-font-specification:'Black Ops One, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 487.28125,200.22266 0,272.07617 84.58203,0 0,-129.49414 76.79883,129.49414 65.33008,-112.4336 0,-136.80468 -57.34375,98.30273 -72.90821,-120.83203 -96.2539,0 4.32422,7.29102 -4.5293,-7.59961 z"
+           transform="translate(0,332.36216)"
+           id="path4177" />
+        <path
+           inkscape:connector-curvature="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:419.42599487px;line-height:125%;font-family:'Black Ops One';-inkscape-font-specification:'Black Ops One, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffd42a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 727.30469,200.53125 0,271.76758 90.51953,0 0,-271.76758 -90.51953,0 z"
+           transform="translate(0,332.36216)"
+           id="path4182" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffd42a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="637.93457"
+       y="821.36218"
+       id="text4500"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4502"
+         x="645.43457"
+         y="821.36218"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:center;letter-spacing:15px;writing-mode:lr-tb;text-anchor:middle;fill:#ffd42a;fill-opacity:1"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff"
+   id="tspan4504">OPEN SOURCE </tspan>PROJECTS</tspan></text>
+    <rect
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:50;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4508"
+       width="376.84531"
+       height="195.11781"
+       x="455.07736"
+       y="857.16516"
+       rx="0"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:15px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffcc00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="1167.0166"
+       y="383.35675"
+       id="text4510"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4512"
+         x="1167.0166"
+         y="383.35675"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:15px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffcc00;">IONX.CA</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4514"
+       y="383.37872"
+       x="49.941406"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:15px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:15px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;"
+         y="383.37872"
+         x="49.941406"
+         id="tspan4516"
+         sodipodi:role="line">ABOUT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:15px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="149.0166"
+       y="383.37872"
+       id="text4518"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4520"
+         x="149.0166"
+         y="383.37872"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:15px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;">CONTACT</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4532"
+       y="976.41724"
+       x="533.8797"
+       style="font-style:normal;font-weight:normal;font-size:126.93615723px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:55.53456879px;line-height:125%;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Normal';text-align:start;letter-spacing:3.17340398px;writing-mode:lr-tb;text-anchor:start;fill:#00ffff;fill-opacity:1"
+         y="976.41724"
+         x="533.8797"
+         id="tspan4534"
+         sodipodi:role="line">PHASED</tspan></text>
+    <rect
+       y="1042.3622"
+       x="0"
+       height="10"
+       width="1280"
+       id="rect4540"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4187"
+       y="580.69281"
+       x="638.39355"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:center;letter-spacing:8px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;"
+         y="580.69281"
+         x="573.40515"
+         id="tspan4189"
+         sodipodi:role="line">POWER OF</tspan></text>
+  </g>
+</svg>

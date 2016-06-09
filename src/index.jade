@@ -1,0 +1,40 @@
+doctype html
+html(lang='en')
+  head
+    meta(charset='utf-8')
+    title PowerOfM
+
+    link(rel='stylesheet', type='text/css', href='css/default.css')
+    link(rel='stylesheet', type='text/css', href='fonts/montserrat.css')
+
+    link(rel='stylesheet', type='text/css', href='https://fonts.googleapis.com/css?family=Comfortaa')
+  body
+    .outer-container
+      .inner-container
+        .project-background
+        header
+          .left
+            a#navAbout(href='#about') ABOUT
+            a(href='http://www.ionx.ca/contact.html') CONTACT
+          .right
+            a.gold(href='http://www.ionx.ca') IONX.CA
+
+        img.logo(src='img/powerofm-logo.png', alt='PowerOfM')
+
+        .title
+          h1#title1 OPEN SOURCE 
+          h1.gold#title2 PROJECTS
+
+        .projects
+          //.project#phased(style='background-image: url(\'projects/phased/background.png\')')
+            .logo(style='font-family: Comfortaa; font-size: 38px') PHASED
+            .info
+
+        .dialog#dialogAbout(style='display: none')
+          .content
+            h1 About
+            p Hello there! I'm #[a(href='https://www.linkedin.com/pub/mesbah-mowlavi/81/b03/648') Mesbah], commonly disguised under PowerOfM. This is a showcase the few projects I actually complete, all of which are hosted #[a(href='https://github.com/powerofm') here on github]. Don't expect to find extrodinary, but I hope you can enjoy or find use in what little I do. For a complete list of what I'm involved in, check out my main site #[a(href='http://www.ionx.ca/') Ionx Systems].
+            p Thanks for stopping by!
+
+    script(src='https://code.jquery.com/jquery-2.2.4.min.js')
+    script(src='js/index.js')
