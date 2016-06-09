@@ -45,7 +45,7 @@ powerofm.Project.prototype = {
 
 powerofm.projects = { phased: new powerofm.Project(
                         'phased', ['https://fonts.googleapis.com/css?family=Comfortaa', 'projects/phased/style.css'], 'PHASED', 'projects/phased/background.png',
-                        '//:github.com/powerofm/phased', '//:powerofm.github.io/phased/readme.md', '//:powerofm.github.io/phased',
+                        'https://github.com/powerofm/phased', 'http://powerofm.github.io/phased/readme.md', 'http://powerofm.github.io/phased',
                         'A portal-inspired first-person puzzle game where you control the direction of gravity. Created as a final project for CPSC314. Winner of the class\' <a href="http://www.ugrad.cs.ubc.ca/~cs314/Vjan2016/P4HOF/CS314_HOF_P4.html">Hall Of Fame</a>.'
                       )
                     }
